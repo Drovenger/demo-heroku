@@ -1,0 +1,1 @@
+web: java -jar build/libs/customer-management-1.0-SNAPSHOT.war
